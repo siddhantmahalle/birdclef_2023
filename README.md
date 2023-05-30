@@ -2,7 +2,7 @@
 
 ## Description:
 
-This repository contains my notebooks and code for the BirdCLEF 2023 challenge. The goal of the challenge is to identify bird calls in soundscapes. The dataset consists of 5-second recordings from 10,000 locations across the world. The recordings are labeled with the species present in the recording. The challenge is to identify the species present in the recording. The dataset is available on Kaggle: https://www.kaggle.com/c/birdclef-2023/overview
+This repository contains my notebooks and code for the BirdCLEF 2023 challenge. The goal of the challenge is to identify bird calls in soundscapes. The dataset consists recordings made in Kenya. The recordings are labeled with the species present in the recording. The challenge is to identify the species present in the recording. You can check the competition on  Kaggle: https://www.kaggle.com/c/birdclef-2023/overview
 
 ## Usage:
 
