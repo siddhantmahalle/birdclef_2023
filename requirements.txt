@@ -5,3 +5,9 @@ jupyter
 seaborn
 plotly
 librosa
+tqdm
+torch
+torchvision
+torchaudio
+scikit-learn
+timm

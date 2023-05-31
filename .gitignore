@@ -160,3 +160,4 @@ cython_debug/
 .idea/
 
 birdclef-2023/
+models/
